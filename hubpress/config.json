@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "codetricity",
-    "repositoryName": "journey",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"codetricity","repositoryName":"journey","branch":"gh-pages"},"site":{"url":"https://codetricity.github.io/journey"},"socialnetwork":{},"theme":{"name":"Casper","url":"//codetricity.github.io/journey/themes/Casper"}}
