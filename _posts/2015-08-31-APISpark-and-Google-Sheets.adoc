@@ -2,3 +2,7 @@
 :hp-image: apispark_sheets.png
 :published_at: 2015-09-01
 :hp-tags: APISpark, Google Sheets
+
+APISpark can be used as a free cloud-based database to serve up
+interactive data stored in Google Sheets and display the data in
+ simple web pages hosted on GitHub Pages.
