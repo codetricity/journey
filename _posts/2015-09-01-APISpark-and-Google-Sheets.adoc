@@ -1,4 +1,4 @@
-= APISpark and Google Sheets 
+= APISpark and Google Sheets
 
 :published_at: 2015-09-01
 :hp-tags: APISpark, Google Sheets
@@ -7,12 +7,13 @@ image::http://codetricity.github.io/journey/images/apispark_sheets.png[]
 
 APISpark can be used as a free cloud-based database to serve up
 interactive data stored in Google Sheets and display the data in
- simple web pages hosted on GitHub Pages.
- 
+ simple web pages hosted on GitHub Pages. The APISpark Google Sheets wrapper
+ is the easiest way to start to use APISpark.
+
 In this example, a high school student created a web site to store a media list
 of student work. The list is updated in one of three ways:
 
-. Everyone can submit content by filling in boxes in a Google Form.  The Google 
+. Everyone can submit content by filling in boxes in a Google Form.  The Google
 Form automatically updates the Google Sheet.
 . Editors can write directly to the Google Sheet after the administrator gives write access to their Google Account.
 . Adminstrators can use the API, most likely through a web interface that the front-end developer configures.
@@ -21,3 +22,7 @@ Form automatically updates the Google Sheet.
 To prototype usability, the student created a GitHub Pages site using a free Bootstrap template. By using pre-made templates, interface and design can be finished in an hour.
 
 image::http://codetricity.github.io/journey/images/paly_class.png[]
+
+== Google Sheets Wrapper
+The easiest way to start using APISpark is by using a Google Sheets wrapper.
+First,
